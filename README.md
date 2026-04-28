@@ -1,2 +1,11 @@
-# UK-Managed-Migration-Insights
-A data-driven analysis of UK immigration sponsorship trends using SQL Server and Power BI. This project integrates study and work sponsorship datasets from the UK Home Office, cleans and models them into a unified fact table, and builds interactive dashboards to uncover historical migration patterns.
+This project explores UK Managed Migration – Historic datasets on study and work sponsorship. Using SQL Server for ETL and data warehousing, and Power BI for visualization, it delivers:
+
+A unified FactSponsorship table combining study and work visa records.
+
+Dimension tables for Date, Nationality, and Visa Category.
+
+Indexed queries and aggregated views for optimized analysis.
+
+Interactive dashboards highlighting sponsorship trends by year, quarter, nationality, and visa type.
+
+The analysis provides evidence-based insights into how immigration policies, such as Tier 4 student visas, Skilled Worker routes, and post-Brexit adjustments, have shaped UK migration flows over time.
